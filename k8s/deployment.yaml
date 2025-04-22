@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: karthickdevops/node-k8s-argocd:v16
+        image: karthickdevops/node-k8s-argocd:v17
         ports:
         - containerPort: 3000
 
